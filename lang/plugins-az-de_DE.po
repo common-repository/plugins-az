@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins A to Z\n"
+"POT-Creation-Date: 2015-09-23 12:43+0200\n"
+"PO-Revision-Date: 2015-09-23 12:48+0200\n"
+"Last-Translator: Lutz Schroeer <latz@elektroelch.de>\n"
+"Language-Team: Lutz Schroeer <latz@elektroelch.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: plugins_az.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+# Funktioniert nicht.
+#: plugins_az_options.php:16
+msgid "Options updated."
+msgstr "Einstellungen aktualisiert"
+
+#. Plugin Name of the plugin/theme
+#: plugins_az_options.php:34
+msgid "Plugins A to Z"
+msgstr ""
+
+#: plugins_az_options.php:42
+msgid "Alphabet length"
+msgstr "Länge"
+
+#: plugins_az_options.php:44
+msgid "Short alphabet"
+msgstr "Kurz"
+
+#: plugins_az_options.php:46
+msgid "Long alphabet"
+msgstr "Lang"
+
+#: plugins_az_options.php:53
+msgid "Update Options"
+msgstr "Einstellungen speichern &raquo;"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wordpress.org/plugins-az"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Quick access to entries in the plugins list."
+msgstr "Schnellzugriff auf die Enträge in der Pluginliste"
+
+#. Author of the plugin/theme
+msgid "Lutz Schr&ouml;er"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://elektroelch.de/"
+msgstr ""
